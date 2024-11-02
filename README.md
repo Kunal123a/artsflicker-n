@@ -6,22 +6,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/jOA6ROBXdRE?style=social)](https://youtu.be/jOA6ROBXdRE)
 
-  <br />
-  <br />
 
-  <h2 align="center">Richard Ryan - Photographer Portfolio Website</h2>
 
-  Richard Ryan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/richard-ryan/"><strong>➥ Live Demo</strong></a>
+  This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+### Demo Screes
 
 ### Prerequisites
 
@@ -31,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Richard Ryan** locally, run this command on your git bash:
+To run **Kunal** locally, run this command on your git bash:
 
 Linux and macOS:
 
