@@ -45,3 +45,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 This project is **free to use** and does not contains any license.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c8242f36-5bca-430b-ae68-9258215e04f3/deploy-status)](https://app.netlify.com/sites/artsflicker/deploys)
